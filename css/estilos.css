@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+*{
+    font-family: 'Cabin', sans-serif;
+}
+h1{
+    background-color:#2fc4b2;
+    color:#f17808;
+    padding:20px;
+}
+h2{
+    background-color:#12947f;
+    color:#f17808;
+    padding:10px;
+}
+td{
+    border:solid 1px #12947f;
+}
+th{
+    background-color:#12947f;
+    color:#f17808;
+}
+.resaltar-tipo1 {
+    background-color:#12947f;
+    color:white;
+}
