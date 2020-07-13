@@ -20,13 +20,15 @@
                         Inicio
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="mision.html"><i class="fa fa-building"></i> Misión</a>
+                        <a class="dropdown-item" href="vision.html"><i class="fa fa-building"></i> Visión</a>
+                        <a class="dropdown-item" href="valores.html"><i class="fa fa-building"></i> Valores</a>
+                        <a class="dropdown-item" href="objetivos.html"><i class="fa fa-building"></i> Obejtivos</a>
+                        <a class="dropdown-item" href="quienes_somos.html"><i class="fa fa-building"></i> ¿Quienes Somos?</a>
                         <a class="dropdown-item" href="clientes.html"><i class="fa fa-users"></i>Clientes</a>
                         <a class="dropdown-item" href="direcciones.html"><i class="fa fa-map-marked-alt"></i> Direcciones</a>
-                        <a class="dropdown-item" href="estados.html"><i class="fa fa-cubes"></i> Estados</a>
-                        <a class="dropdown-item" href="municipios.html"><i class="fa fa-cube"></i> Municipios</a>
                         <a class="dropdown-item" href="ventas.html"><i class="fa fa-credit-card"></i> Ventas</a>
                         <a class="dropdown-item" href="inmuebles.html"><i class="fa fa-building"></i> Inmuebles</a>
-                        <a class="dropdown-item" href="servicios.html"><i class="fa fa-server"></i> Sericios</a>
                     </div>
                 </li>
             </ul>
@@ -49,33 +51,26 @@
                         <input type="text" class="form-control form-control-sm" id="nombre" name="nombre">
             </div>
             <div class="card-body">
-                <form action="direccion_guardad.html" method="post">
+                <form action="estado_guarda.html" method="post">
                     <div class="form-group">
                         <label for="estado_id">Estados</label>
                         <select class="form-control form-control-sm" id="estado_id" name="estado_id" aria-describedby="estadoHelp">
                             <option value="">Selecciona</option>
-                            <option value="1">Veracruz</option>
-                            <option value="3">Hidalgo</option>
-                            <option value="2">Curnavaca</option>
-                            <option value="5">Estado de Mexico</option>
-                            <option value="4">Gerrero</option>
+                            <option value="1">Veracuz</option>
+                            <option value="3">Ciudad de México</option>
+                            <option value="2">Estado de México</option>
                         </select>
-                        <small id="estadoHelp" class="form-text text-muted">Elije el Estado.</small>
+                        <small id="estadoHelp" class="form-text text-muted">Elije el estado.</small>
                     </div>
-            <div class="card-body">
-                 <form action="direccion_guardad.html" method="post">
-                     <div class="form-group">
-                          <label for="munucipio_id">Municipios</label>
-                          <select class="form-control form-control-sm" id="municipio_id" name="municipio_id" aria-describedby="municipioHelp">
-                                <option value="">Selecciona</option>
-                                <option value="1">Lerma</option>
-                                <option value="3">Jiutepec</option>
-                                <option value="2">Alvaro Obregon</option>
-                                <option value="5">Acatlán</option>
-                                <option value="4">Cocula</option>
-                          </select>
-                          <small id="munucipioHelp" class="form-text text-muted">Elije el Municipio.</small>
-            </div> 
+                    <div class="form-group">
+                        <label for="municipio">Municipios</label>
+                        <select class="form-control form-control-sm" id="municipio_id" name="municipio_id" aria-describedby="municipioHelp">
+                            <option value="">Selecciona</option>
+                            <option value="1">Lerma</option>
+                            <option value="3">Loma linda</option>
+                        </select>
+                        <small id="municipioHelp" class="form-text text-muted">Elije el municipio.</small>
+                    </div>
                     <button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-save"></i> guardar</button>
                 </form>
             </div>
