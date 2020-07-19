@@ -1,6 +1,3 @@
-<?php
-require_once './conexion.php';
-?>
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
@@ -15,7 +12,6 @@ require_once './conexion.php';
     <div class="container mt-3">
         <div class="card">
             <div class="card-header">
-                <a href="menu.html" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
                 <br> <img src="img/objetivos.gif"width="350" height="350" alt="img_conference" class="rounded float-left mr-4">
                 <br></p><h4><li type="circle">Que cada uno de los inmuebles que se ofrezcan se ajusten de acuerdo a sus necesidades.</li></h4></p>
                 <p><h4><li type="circle">Implementar todos los servicios que usted requiera.</li></h4></p>

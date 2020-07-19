@@ -1,6 +1,3 @@
-<?php
-require_once './conexion.php';
-?>
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
@@ -15,7 +12,6 @@ require_once './conexion.php';
     <div class="container mt-3">
         <div class="card">
             <div class="card-header">
-                <a href="menu.html" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
                 <br> <img src="img/valores.gif"width="350" height="350" alt="img_conference" class="rounded float-left mr-4">
           <body>
             <table>

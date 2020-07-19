@@ -1,6 +1,3 @@
-<?php
-require_once './conexion.php';
-?>
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
@@ -15,7 +12,6 @@ require_once './conexion.php';
     <div class="container mt-3">
         <div class="card">
             <div class="card-header">
-                <a href="menu.html" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
                 <img src="img/sdihouse.gif"width="400" height="400" alt="img_conference" class="rounded float-left mr-4">
                 <h3>SDI es empresa encargada de la venta y renta de bienes raices , la cual se encuentra a su disposicion para que usted pueda adquirir alguno de nuestros distintos tipos de inmuebles que se le busca ofrecer.
                     por que nuestra principal prioridad  es usted para que  pueda encontrar un establecimiento (casa,departamento u oficina) en donde pueda vivir con todas las comodidades que usted elija.
