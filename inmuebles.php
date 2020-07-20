@@ -42,7 +42,7 @@
           <div class="col-sm-4">
             <h3>Promociones</h3>  
             <img src="img/5.jpg"width="200" alt="img_conference" class="rounded float-left mr-4"></td>  
-            <a href="ofertas.php"><button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-arrow-alt-circle-left"></i> Observar</button></a>    
+            <a href="promociones.php"><button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-arrow-alt-circle-left"></i> Observar</button></a>    
           </div>
     <script src="js/jquery-3.5.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>

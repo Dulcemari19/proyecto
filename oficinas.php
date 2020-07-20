@@ -29,7 +29,7 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="casa1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="aguascalienteso.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
@@ -459,7 +459,7 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="casa1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>      </div>
+        <a href=".php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>      </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
