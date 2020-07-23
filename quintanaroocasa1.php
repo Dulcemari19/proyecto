@@ -60,7 +60,7 @@
     
     <h4><strong>Descripción</strong></h4>
     <p>La casa ubicada en Isla Mujeres, Quintana Roo cuenta con 2 recamaras, 2 baño, 1 almacen,
-    cuenta con una alberca en la parte de afuera. El espacio es muy aplio para tu comodidad. </p>
+    cuenta con una alberca en la parte de afuera. El espacio es muy amplio para tu comodidad. </p>
     <hr>
     <h4><strong>Calcula tu Hipoteca</strong></h4>
     <p>$ 3,970,000  Condominio en Venta</p>
