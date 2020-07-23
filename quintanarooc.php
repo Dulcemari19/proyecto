@@ -37,7 +37,7 @@
         <h4 class="my-0 font-weight-normal">Residencial Quintana Roo</h4>
       </div>
       <div class="card-body">
-      <img src="img/casa2quintanaroo" width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/casa2quintanaroo.jpg" width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
