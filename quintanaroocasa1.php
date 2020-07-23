@@ -18,9 +18,9 @@
     </div>
     <main role="main" class="container">
   <div class="jumbotron">
-    <h1>Aguascalientes</h1>
+    <h1>quintanarooc</h1>
     <body class="w3-content w3-border-left w3-border-right" ></body>
-    <center><b><strong><h2 class="w3-text-black">Las Plazas</h2></strong></b></center>
+    <center><b><strong><h2 class="w3-text-black">Isla Mujeres</h2></strong></b></center>
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="" data-slide-to="0" class="active"></li>
@@ -46,24 +46,24 @@
     <h4><strong>Detalles</strong></h4>
                   <div class="w3-row w3-large">
                     <div class="w3-col s6">
-                      <p><i class="fa fa-fw fa-bed"></i> 3 Recámaras</p>
-                      <p><i class="fa fa-fw fa-door-open"></i> 7 Habitaciones(en total)</p>
-                      <p><i class="fa fa-fw fa-toilet"></i> 4 baños</p>
+                      <p><i class="fa fa-fw fa-bed"></i> 2 Recámaras</p>
+                      <p><i class="fa fa-fw fa-door-open"></i> 5 Habitaciones(en total)</p>
+                      <p><i class="fa fa-fw fa-toilet"></i> 2 baños</p>
                       <p><i class="fa fa-fw fa-warehouse"></i> Almacen </p>
-                      <p><i class="fa fa-fw fa-user-cog"></i> Construido (año) 2019</p>
-                      <p><i class="fa fa-fw fa-compress"></i> Construidos (m²) 220 </p>
-                      <p><i class="fa fa-fw fa-arrows-alt"></i> Terreno (m²) 189</p>
+                      <p><i class="fa fa-fw fa-water"></i> Alberca</p>
+                      <p><i class="fa fa-fw fa-user-cog"></i> Construido (año) 2015</p>
+                      <p><i class="fa fa-fw fa-compress"></i> Construidos (m²) 210 </p>
+                      <p><i class="fa fa-fw fa-arrows-alt"></i> Terreno (m²) 185</p>
                     </div>
                  </div>
     <hr>
     
     <h4><strong>Descripción</strong></h4>
-    <p>Casa en venta en Las Plazas. En la primera planta se encuentra sala, comedor, espacio para varios, cocina 
-    equipada con granito, cuarto de lavado, patio trasero y cochera para dos autos. En la segunda planta se encuentra
-    tres recamaras con baño completo y closets, vertedero, espacio para blancos y sala de televisión.</p>
+    <p>La casa ubicada en Isla Mujeres, Quintana Roo cuenta con 2 recamaras, 2 baño, 1 almacen,
+    cuenta con una alberca en la parte de afuera. El espacio es muy aplio para tu comodidad. </p>
     <hr>
     <h4><strong>Calcula tu Hipoteca</strong></h4>
-    <p>$ 2,980,000  Condominio en Venta</p>
+    <p>$ 3,970,000  Condominio en Venta</p>
     <hr>
   <!-- Contact -->
   <div class="w3-container" id="contact">
