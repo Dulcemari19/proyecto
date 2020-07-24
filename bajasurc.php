@@ -20,30 +20,30 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Playas de Tijuana</h4>
+        <h4 class="my-0 font-weight-normal"> Real Montejo</h4>
       </div>
       <div class="card-body">
-      <img src="img/22.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/41.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="bajacasa1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="bajascasa1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Sección Jardines</h4>
+        <h4 class="my-0 font-weight-normal">Dzityá</h4>
       </div>
       <div class="card-body">
-      <img src="img/23.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/42.png"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="bajacasa2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="bajascasa2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
@@ -51,12 +51,12 @@
         <h4 class="my-0 font-weight-normal"> Montes de Ame</h4>
       </div>
       <div class="card-body">
-      <img src="img/24.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/43.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="bajacasa3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="bajascasa3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
     </div>
