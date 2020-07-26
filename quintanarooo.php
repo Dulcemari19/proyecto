@@ -20,10 +20,10 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Oficinas Benito Juare</h4>
+        <h4 class="my-0 font-weight-normal">Oficinas Benito Juarez</h4>
       </div>
       <div class="card-body">
-      <img src="img/oficina1quiontanaroo.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/oficina1quintanaroo.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
