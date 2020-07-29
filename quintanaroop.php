@@ -23,7 +23,7 @@
         <h4 class="my-0 font-weight-normal"> Bacalar</h4>
       </div>
       <div class="card-body">
-      <img src="img/promocion3quintanaroo.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/promocionq1.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
@@ -34,10 +34,10 @@
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">SUIT 24</h4>
+        <h4 class="my-0 font-weight-normal">Carmen Roo</h4>
       </div>
       <div class="card-body">
-      <img src="img/promocioneshquintanaroo.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/promocionq2.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
@@ -48,10 +48,10 @@
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">El Parque</h4>
+        <h4 class="my-0 font-weight-normal">SUIT 24</h4>
       </div>
       <div class="card-body">
-      <img src="img/promocionesquintanaroo.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/promocionq3.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
