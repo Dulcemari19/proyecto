@@ -20,7 +20,7 @@
   <div class="jumbotron">
     <h1>San Luis Potosi</h1>
     <body class="w3-content w3-border-left w3-border-right" ></body>
-    <center><b><strong><h2 class="w3-text-black">Las Plazas</h2></strong></b></center>
+    <center><b><strong><h2 class="w3-text-black">Privada Monterra</h2></strong></b></center>
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="" data-slide-to="0" class="active"></li>
