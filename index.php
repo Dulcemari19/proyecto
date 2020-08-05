@@ -32,7 +32,8 @@ require_once './conexion.php'
                         <input type="password" class="form-control form-control-sm" id="contrasena" name="contrasena" required>
                     </div>
                     <button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-sign-in-alt"></i> Enviar</button>
-                </form>
+                </form><br>
+                <a href="registrar.php" class="btn btn-light btn-sm float-right"><i class="fa fa-sign-in-alt"></i> Registrarse</a>
            </div>
         </div>
     </div>
