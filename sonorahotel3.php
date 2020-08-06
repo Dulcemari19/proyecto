@@ -11,14 +11,14 @@
     <?php
     readfile('./menu.html');
     ?>
-    <a href="sinaloah.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
+    <a href="sonorah.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
     <img src="img/sdihouse.png"width="250" alt="img_conference" class="rounded float-left mr-4"></td><div class="jumbotron text-center">
      <h1>SDI House</h1>
       <p>¿Por cuánto tiempo me quedo con una propiedad? Mi preferencia: para siempre</p> 
     </div>
     <main role="main" class="container">
   <div class="jumbotron">
-    <h1>Sinaloa</h1>
+    <h1>Sonora</h1>
     <body class="w3-content w3-border-left w3-border-right" ></body>
     <center><b><strong><h2 class="w3-text-black">Messe</h2></strong></b></center>
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
