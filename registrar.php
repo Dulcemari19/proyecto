@@ -1,24 +1,29 @@
+<?php
+require_once './conexion.php'
+?>
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registro</title>
+    <title>Registrarse</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/all.min.css">
 </head>
 <body>
-    <?php
-    readfile('./menu.html');
-    ?>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">SDI</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+    </nav>
     <div class="container mt-3">
         <div class="card">
             <div class="card-header">
-                <a href="clientes.php" class="btn btn-light btn-sm float-right"><i class="fa fa-chevron-circle-left"></i> regresar</a>
+                <a href="registrar.php" class="btn btn-light btn-sm float-right"><i class="fa fa-chevron-circle-left"></i> regresar</a>
                 <i class="fa fa-user"></i> Registro Cliente
             </div>
             <div class="card-body">
-                <form action="clientes_guarda.php" method="post">
+                <form action="registrar_guarda.php" method="post">
                     <div class="form-group">
                         <label for="nombre">Nombre</label>
                         <input type="text" class="form-control form-control-sm" id="nombre" name="nombre" required>

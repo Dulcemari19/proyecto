@@ -35,12 +35,12 @@ require_once './conexion.php';
                     </thead>
                     <tbody>
                         <?php
-                        $sql = 'select idcliente, nombre, primer_apellido, segundo_apellido, teléfono_celular, correo_electronico from clientes order by nombre, primer_apellido  asc';
+                        $sql = 'select idcliente, nombre, primer_apellido, segundo_apellido, numero_celular, correo_electronico from clientes order by nombre, primer_apellido  asc';
                         foreach ($conexion->query($sql) as $registro) {
                             $registro['nombre'] = htmlentities($registro['nombre']);
                             $registro['primer_apellido'] = htmlentities($registro['primer_apellido']);
                             $registro['segundo_apellido'] = htmlentities($registro['segundo_apellido']);
-                            $registro['telefono_celular'] = htmlentities($registro['telefono_celular']);
+                            $registro['numero_celular'] = htmlentities($registro['numero_celular']);
                             $registro['correo_electronico'] = htmlentities($registro['correo_electronico']);
                             echo <<<fin
 
@@ -48,10 +48,10 @@ require_once './conexion.php';
                                 <td>{$registro['nombre']}</td>
                                 <td>{$registro['primer_apellido']}</td>
                                 <td>{$registro['segundo_apellido']}</td>
-                                <td>{$registro['telefono_celular']}</td>
-                                <td>{$registro['correo_electroncio']}</td>
+                                <td>{$registro['numero_celular']}</td>
+                                <td>{$registro['correo_electronico']}</td>
                                 <td>
-                                    <a href="clientes_editar.php?id={$registro['id']}" class="btn btn-secondary btn-sm"><i class="fa fa-edit"></i></a>
+                                <a href="clientes_editar.php?idcliente={$registro['idcliente']}" class="btn btn-secondary btn-sm"><i class="fa fa-edit"></i></a>
                                 </td>
                             </tr>
 fin;
