@@ -22,6 +22,17 @@ require_once './conexion.php'
                 <i class="fa fa-sign-in-alt"></i> Inicio de sesión 
            </div>
            <div class="card-body">
+           <?php
+                if (isset($_GET['info']) && !empty($_GET['info'])) {
+                    $_GET['info'] = htmlentities($_GET['info']);
+                    echo <<<fin
+
+                <div class="alert alert-warning" role="alert">
+                    {$_GET['info']}
+                </div>
+fin;
+                }
+                ?>
            <form action="inicio_sesion.php" method="POST">
                     <div class="form-group">
                         <label for="correo_electronico">Correo electrónico</label>
@@ -31,7 +42,7 @@ require_once './conexion.php'
                         <label for="contrasena">Contraseña</label>
                         <input type="password" class="form-control form-control-sm" id="contrasena" name="contrasena" required>
                     </div>
-                    <button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-sign-in-alt"></i> Enviar</button>
+                    <button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-sign-in-alt"></i> Ingresar</button>
                 </form><br>
                 <a href="registrar.php" class="btn btn-light btn-sm float-right"><i class="fa fa-sign-in-alt"></i> Registrarse</a>
            </div>
