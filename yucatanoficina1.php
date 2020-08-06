@@ -18,7 +18,7 @@
     </div>
     <main role="main" class="container">
   <div class="jumbotron">
-    <h1></h1>
+    <h1>Yucatan</h1>
     <body class="w3-content w3-border-left w3-border-right" ></body>
     <center><b><strong><h2 class="w3-text-black">Las Ventanas</h2></strong></b></center>
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
