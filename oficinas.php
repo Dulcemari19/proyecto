@@ -14,7 +14,7 @@ require_once './checa_sesion.php'
     <?php
     readfile('./menu.html');
     ?>
-    <a href="inmuebles.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
+    <a href="bienvenida.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
     <img src="img/sdihouse.png"width="250" alt="img_conference" class="rounded float-left mr-4"></td><div class="jumbotron text-center">
      <h1>SDI House</h1>
       <p>¿Por cuánto tiempo me quedo con una propiedad? Mi preferencia: para siempre</p> 
