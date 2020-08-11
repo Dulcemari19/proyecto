@@ -1,6 +1,3 @@
-<?php
-require_once './checa_sesion.php'
-?>
 !DOCTYPE html>
 <html lang="es-MX">
 <head>
