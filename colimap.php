@@ -11,7 +11,7 @@
     <?php
     readfile('./menu.html');
     ?>
-    <a href="casas.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
+    <a href="Promociones.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
     <img src="img/sdihouse.png"width="250" alt="img_conference" class="rounded float-left mr-4"><div class="jumbotron text-center">
      <h1>SDI House</h1>
       <p>¿Por cuánto tiempo me quedo con una propiedad? Mi preferencia: para siempre</p> 
@@ -20,43 +20,43 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Recidencia Loredo</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
-      <img src="img/Colima/casa 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/Promociones/Colima/Promocion 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="colimac1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="colimap1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Recidencia Valle Real</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
-      <img src="img/Colima/casa 2/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/Promociones/Colima/Promocion 2/1.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="colimac2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="colimap2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Recidencia Villa Magna</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
-      <img src="img/Colima/casa 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
+      <img src="img/Promociones/Colima/Promocion 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
       <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="colimac3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="colimap3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
     </div>
