@@ -11,7 +11,7 @@
     <?php
     readfile('./menu.html');
     ?>
-    <a href="casas.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
+    <a href="oficinas.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
     <img src="img/sdihouse.png"width="250" alt="img_conference" class="rounded float-left mr-4"><div class="jumbotron text-center">
      <h1>SDI House</h1>
       <p>¿Por cuánto tiempo me quedo con una propiedad? Mi preferencia: para siempre</p> 
@@ -20,43 +20,43 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Casa Australia</h4>
+        <h4 class="my-0 font-weight-normal">Residencia Sky Tower </h4>
       </div>
       <div class="card-body">
-      <img src="img/Chiapas/casa 1/1.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/Oficinas/Chiapas/Oficina 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="chiapasc1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="chiapaso1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Casa la Primavera</h4>
+        <h4 class="my-0 font-weight-normal">Residencia Santa Ana</h4>
       </div>
       <div class="card-body">
-      <img src="img/Chiapas/casa 2/1.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/Oficinas/Chiapas/Oficina 2/1.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="chiapasc2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="chiapaso2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Recidencia Agustin</h4>
+        <h4 class="my-0 font-weight-normal">Recidencia Hidalgo</h4>
       </div>
       <div class="card-body">
-      <img src="img/Chiapas/casa 3/01.jpg"width="300" alt="img_conference" class="rounded float-left mr-4"> 
+      <img src="img/Oficinas/Chiapas/Oficina 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
       <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="chiapasc3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="chiapaso3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
     </div>
