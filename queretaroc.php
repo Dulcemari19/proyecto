@@ -23,7 +23,7 @@
         <h4 class="my-0 font-weight-normal">Recidencia Paseo Real</h4>
       </div>
       <div class="card-body">
-      <img src="img/Queretaro/casa 1/01.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/Queretaro/casa 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
@@ -37,7 +37,7 @@
         <h4 class="my-0 font-weight-normal">Residencia Cardon</h4>
       </div>
       <div class="card-body">
-      <img src="img/Queretaro/casa 2/01.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/Queretaro/casa 2/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
@@ -51,7 +51,7 @@
         <h4 class="my-0 font-weight-normal">Recidencia Milenio</h4>
       </div>
       <div class="card-body">
-      <img src="img/Queretaro/casa 3/01.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
+      <img src="img/Queretaro/casa 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
       <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
