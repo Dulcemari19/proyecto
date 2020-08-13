@@ -20,7 +20,7 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Terreno Murguia </h4>
+        <h4 class="my-0 font-weight-normal">Terreno  Murguia </h4>
       </div>
       <div class="card-body">
       <img src="img/Terrenos/Hidalgo/Terreno 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
