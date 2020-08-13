@@ -65,17 +65,13 @@
     <p>$ 2300</p>
     <hr>
   <!-- Contact -->
-  <div class="w3-container" id="contact">
+ <div class="w3-container" id="contact">
     <h4><strong>Contacto</strong></h4>
     <i class="fa fa-map-marker" style="width:30px"></i>Ciudad de Mexico<br>
     <i class="fa fa-phone" style="width:30px"></i>Telefono 55 7234679810<br>
     <i class="fa fa-envelope" style="width:30px"> </i>Correo SDI12@gmail.com<br>
-  
     <form action="/action_page.php" target="_blank">
-      <p><input class="w3-input w3-border" type="text" placeholder="Nombre" required name="Nombre"></p>
-      <p><input class="w3-input w3-border" type="text" placeholder="Correo" required name="Correo"></p>
-      <p><input class="w3-input w3-border" type="text" placeholder="Mensaje" required name="Mensaje"></p>
-    <button type="submit" class="w3-button w3-black w3-third">Enviar un mensaje</button>
+    <button type="submit" class="w3-button w3-black w3-third">Comprar</button>
     </form>
   </div>
   <hr>
