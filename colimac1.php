@@ -29,7 +29,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="img/Colima/Casa 1/1.webp" alt="First slide">
+          <img class="d-block w-100" src="img/Colima/casa 1/1.webp" alt="First slide">
     </div>
     </div>
       <h4><strong>Servicios</strong></h4>

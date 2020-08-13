@@ -11,7 +11,7 @@
     <?php
     readfile('./menu.html');
     ?>
-    <a href="quintanarooc.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
+    <a href="coahuilac.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
     <img src="img/sdihouse.png"width="250" alt="img_conference" class="rounded float-left mr-4"></td><div class="jumbotron text-center">
      <h1>SDI House</h1>
       <p>¿Por cuánto tiempo me quedo con una propiedad? Mi preferencia: para siempre</p> 
@@ -29,7 +29,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="img/Coahuila/Casa 1/1.webp" alt="First slide">
+          <img class="d-block w-100" src="img/Coahuila/casa 1/1.webp" alt="First slide">
     </div>
     </div>
       <h4><strong>Servicios</strong></h4>
