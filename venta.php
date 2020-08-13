@@ -25,6 +25,7 @@ require_once './checa_sesion.php'
     <input class="controls" type="text" name="municipio" id="municipio" placeholder="Municipio">
     <input class="controls" type="text" name="fecha" id="fecha" placeholder="Precio">
     <input class="controls" type="text" name="forma_de_pago" id="forma_de_pago" placeholder="Forma de Pago">
+    <input class='filestyle' data-buttonText="Logo" type="file" name="imagefile" id="imagefile" onchange="upload_image();">
     <a href="#"><input class="botons" type="submit" value="Registrar"></a>
   </section>
 
