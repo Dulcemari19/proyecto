@@ -29,7 +29,7 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="bajacasa1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="morelosc1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
@@ -43,7 +43,7 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="bajacasa2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="morelosc2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
@@ -57,6 +57,6 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="bajacasa3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="morelosc3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
     </div>
