@@ -11,10 +11,10 @@
     <?php
     readfile('./menu.html');
     ?>
-    <a href="ciudadt.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
+    <a href="cuiudadt.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
     <img src="img/sdihouse.png"width="250" alt="img_conference" class="rounded float-left mr-4"></td><div class="jumbotron text-center">
      <h1>SDI House</h1>
-      <p>¿Por cuánto tiempo me quedo con una propiedad? Mi preferencia:  para siempre</p> 
+      <p>¿Por cuánto  tiempo me quedo con una propiedad? Mi preferencia: para siempre</p> 
     </div>
     <main role="main" class="container">
   <div class="jumbotron">
@@ -35,23 +35,23 @@
     <h4><strong>Detalles</strong></h4>
                   <div class="w3-row w3-large">
                     <div class="w3-col s6">
-                      <p><i class="fa fa-fw fa-compress"></i> Terreno (m²) 7278</p>
+                      <p><i class="fa fa-fw fa-compress"></i> Terreno (m²) 9339</p>
                     </div>
                  </div>
     <hr>
     
     <h4><strong>Descripción</strong></h4>
-    <p>Terreno irregular en renta, total o parcial; ubicado sobre Av.Libertad, Ciudad de Mexico.
-       -Superficie Total: 7,278.53 m2
-       -Frente sobre Av. La Rossa 64: 64.76 m
-       -Frente sobre calle Pinosuarez: 432.7 m
-       -Fondo: 654.46 m
-       -Venta: $ 400.00 pesos por m2.
+    <p>Terreno irregular en renta, total o parcial; ubicado sobre Av. Alameda Central, Ciudad de Mexico.
+       -Superficie Total: 9,339.53 m2
+       -Frente sobre Av. Autopan 14: 32.76 m
+       -Frente sobre calle Reforma: 386.7 m
+       -Fondo: 128.26 m
+       -Venta: $ 456.00 pesos por m2.
         La zona cuenta con los servicios de luz, agua, drenaje y pavimentación.
         El periodo de gracia va de acuerdo al giro, antes previamente aprobado.</p>
     <hr>
     <h4><strong>Calcula tu Venta</strong></h4>
-    <p>$ 400.00 pesos por m2</p>
+    <p>$ 456.00 pesos por m2</p>
     <hr>
   <!-- Contact -->
   <div class="w3-container" id="contact">
