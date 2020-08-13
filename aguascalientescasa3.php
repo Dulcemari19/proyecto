@@ -72,24 +72,16 @@
     <p>$ 4,420,000 Casa en Preventa</p>
     <hr>
   <!-- Contact -->
-  <div class="w3-container" id="contact">
+ <div class="w3-container" id="contact">
     <h4><strong>Contacto</strong></h4>
     <i class="fa fa-map-marker" style="width:30px"></i>Ciudad de Mexico<br>
     <i class="fa fa-phone" style="width:30px"></i>Telefono 55 7234679810<br>
     <i class="fa fa-envelope" style="width:30px"> </i>Correo SDI12@gmail.com<br>
-  
-    <form action="/action_page.php" target="_blank">
-      <p><input class="w3-input w3-border" type="text" placeholder="Nombre" required name="Nombre"></p>
-      <p><input class="w3-input w3-border" type="text" placeholder="Correo" required name="Correo"></p>
-      <p><input class="w3-input w3-border" type="text" placeholder="Mensaje" required name="Mensaje"></p>
-    <button type="submit" class="w3-button w3-black w3-third">Enviar un mensaje</button>
+    <a href="comprar.php"><input class="botons" type="submit" value="Comprar"></a>
     </form>
   </div>
   <hr>
 </main>
-                              <p><i class="fa fa-fw fa-mug-hot"></i> Cocina </p>
-                              <p><i class="fa fa-fw fa-couch"></i> Sala </p>
-                              <p><i class="fa fa-fw fa-mortar-pestle"></i> Comedor </p>
         <script src="js/jquery-3.5.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
     </body>

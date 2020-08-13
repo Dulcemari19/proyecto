@@ -1,4 +1,7 @@
-!DOCTYPE html>
+<?php
+require_once './checa_sesion.php'
+?>
+<!DOCTYPE html>
 <html lang="es-MX">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +14,7 @@
     <?php
     readfile('./menu.html');
     ?>
-    <a href="quintanarooc.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
+    <a href="coahuilac.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
     <img src="img/sdihouse.png"width="250" alt="img_conference" class="rounded float-left mr-4"></td><div class="jumbotron text-center">
      <h1>SDI House</h1>
       <p>¿Por cuánto tiempo me quedo con una propiedad? Mi preferencia: para siempre</p> 
@@ -29,7 +32,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="img/Coahuila/Casa 1/1.webp" alt="First slide">
+          <img class="d-block w-100" src="img/Coahuila/casa 1/1.webp" alt="First slide">
     </div>
     </div>
       <h4><strong>Servicios</strong></h4>
@@ -66,19 +69,14 @@
     <p>$ 4,000,000  Condominio en Venta</p>
     <hr>
   <!-- Contact -->
-  <div class="w3-container" id="contact">
+  <!-- Contact -->
+ <div class="w3-container" id="contact">
     <h4><strong>Contacto</strong></h4>
     <i class="fa fa-map-marker" style="width:30px"></i>Ciudad de Mexico<br>
     <i class="fa fa-phone" style="width:30px"></i>Telefono 55 7234679810<br>
     <i class="fa fa-envelope" style="width:30px"> </i>Correo SDI12@gmail.com<br>
-  
-    <form action="/action_page.php" target="_blank">
-      <p><input class="w3-input w3-border" type="text" placeholder="Nombre" required name="Nombre"></p>
-      <p><input class="w3-input w3-border" type="text" placeholder="Correo" required name="Correo"></p>
-      <p><input class="w3-input w3-border" type="text" placeholder="Mensaje" required name="Mensaje"></p>
-    <button type="submit" class="w3-button w3-black w3-third">Enviar un mensaje</button>
+    <a href="comprar.php"><input class="botons" type="submit" value="Comprar"></a>
     </form>
-  </div>
   <hr>
 </main>
         <script src="js/jquery-3.5.1.min.js"></script>
