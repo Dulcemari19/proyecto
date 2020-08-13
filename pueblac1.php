@@ -74,10 +74,7 @@
     <i class="fa fa-envelope" style="width:30px"> </i>Correo SDI12@gmail.com<br>
   
     <form action="/action_page.php" target="_blank">
-      <p><input class="w3-input w3-border" type="text" placeholder="Nombre" required name="Nombre"></p>
-      <p><input class="w3-input w3-border" type="text" placeholder="Correo" required name="Correo"></p>
-      <p><input class="w3-input w3-border" type="text" placeholder="Mensaje" required name="Mensaje"></p>
-    <button type="submit" class="w3-button w3-black w3-third">Enviar un mensaje</button>
+    <button type="submit" class="w3-button w3-black w3-third">Comprar</button>
     </form>
   </div>
   <hr>
