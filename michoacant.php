@@ -27,7 +27,7 @@
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
-          <li>La mejor calidad aqui en SDI</li>
+          <li>La mejor calidad aqui en  SDI</li>
         </ul>
         <a href="michoacant1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
