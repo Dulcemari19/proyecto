@@ -20,7 +20,7 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Residencia Sky Tower </h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Colima/Oficina 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -34,7 +34,7 @@
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Residencia Santa Ana</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Colima/Oficina 2/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -48,7 +48,7 @@
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Recidencia Hidalgo</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Colima/Oficina 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
