@@ -20,7 +20,7 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Oficina Ambar </h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Nayarit/Oficina 1/1.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -34,7 +34,7 @@
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Oficina Jurquilla</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Nayarit/Oficina 2/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -48,7 +48,7 @@
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Oficina Milenio</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Nayarit/Oficina 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
