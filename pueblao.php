@@ -20,7 +20,7 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Ofina Corporativa Neck</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Puebla/Oficina 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -34,7 +34,7 @@
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Ofina Corporativa Marmol</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Puebla/Oficina 2/01.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -48,7 +48,7 @@
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Ofina Corporativa Parck </h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Puebla/Oficina 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
