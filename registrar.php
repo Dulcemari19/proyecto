@@ -9,6 +9,7 @@ require_once './conexion.php'
     <title>Registrarse</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -16,47 +17,20 @@ require_once './conexion.php'
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
     </nav>
-    <div class="container mt-3">
-        <div class="card">
-            <div class="card-header">
-                <a href="registrar.php" class="btn btn-light btn-sm float-right"><i class="fa fa-chevron-circle-left"></i> regresar</a>
-                <i class="fa fa-user"></i> Registro Cliente
-            </div>
-            <div class="card-body">
-                <form action="registrar_guarda.php" method="post">
-                    <div class="form-group">
-                        <label for="nombre">Nombre</label>
-                        <input type="text" class="form-control form-control-sm" id="nombre" name="nombre" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="primer_apellido">Primer apellido</label>
-                        <input type="text" class="form-control form-control-sm" id="primer_apellido" name="primer_apellido" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="segundo_apellido">Segundo apellido</label>
-                        <input type="text" class="form-control form-control-sm" id="segundo_apellido" name="segundo_apellido" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="numero_celular">Número de celular</label>
-                        <input type="tel" class="form-control form-control-sm" id="numero_celular" name="numero_celular" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="correo_electronico">Correo electrónico</label>
-                        <input type="email" class="form-control form-control-sm" id="correo_electronico" name="correo_electronico" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="contrasena">Contraseña</label>
-                        <input type="password" class="form-control form-control-sm" id="contrasena" name="contrasena" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="contrasena_confirma">Contraseña (confirma)</label>
-                        <input type="password" class="form-control form-control-sm" id="contrasena_confirma" name="contrasena_confirma" required>
-                    </div>
-                    <button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-save"></i> guardar</button>
-                </form>
-            </div>
-        </div>
-    </div>
+    <section class="form-register">
+    <center><h4>Crea tu registro</h4></center>
+    <form action="registrar_guarda.php" method="post">
+    <input class="controls" type="text" name="nombre" id="nombre" placeholder="Nombre" required>
+    <input class="controls" type="text" name="primer_apellido" id="primer_apellido" placeholder="Primer Apellido" required>
+    <input class="controls" type="text" name="segundo_apellido" id="segundo_apellido" placeholder="Segundo Apellido" required>
+    <input class="controls" type="tel" name="numero_celular" id="numero_celular" placeholder="Número Celular" required>
+    <input class="controls" type="email" name="correo_electronico" id="correo_electronico" placeholder="Correo Electrónico" required>
+    <input class="controls" type="password" name="contrasena" id="contrasena" placeholder="Contraseña"  required>
+    <input class="controls" type="password" name="contrasena_confirma" id="contrasena_confirma" placeholder="Contraseña confirma"  required>
+    <input class='filestyle' data-buttonText="Logo" type="file" name="imagefile" id="imagefile" onchange="upload_image();">
+    <input class="botons" type="submit" value="Registrar">
+    </form>
+  </section> 
     <script src="js/jquery-3.5.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 </body>
