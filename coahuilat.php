@@ -14,7 +14,7 @@
     <a href="terrenos.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
     <img src="img/sdihouse.png"width="250" alt="img_conference" class="rounded float-left mr-4"><div class="jumbotron text-center">
      <h1>SDI House</h1>
-      <p>¿Por cuánto tiempo me quedo con una propiedad? Mi preferencia: para siempre</p> 
+      <p>¿Por cuánto tiempo me  quedo con una propiedad? Mi preferencia: para siempre</p> 
     </div>
     <div class="container">
   <div class="card-deck mb-3 text-center">
