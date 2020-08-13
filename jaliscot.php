@@ -14,7 +14,7 @@
     <a href="terrenos.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
     <img src="img/sdihouse.png"width="250" alt="img_conference" class="rounded float-left mr-4"><div class="jumbotron text-center">
      <h1>SDI House</h1>
-      <p>¿Por cuánto tiempo me quedo con una propiedad? Mi preferencia: para siempre</p> 
+      <p>¿Por cuánto tiempo me quedo con  una propiedad? Mi preferencia: para siempre</p> 
     </div>
     <div class="container">
   <div class="card-deck mb-3 text-center">
@@ -23,7 +23,7 @@
         <h4 class="my-0 font-weight-normal">Terreno San Rafael </h4>
       </div>
       <div class="card-body">
-      <img src="img/Terrenos/Baja california/Terreno 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/Terrenos/Jalisco/Terreno 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
@@ -37,7 +37,7 @@
         <h4 class="my-0 font-weight-normal">Terreno Tabay</h4>
       </div>
       <div class="card-body">
-      <img src="img/Terrenos/Baja california/Terreno 2/01.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/Terrenos/Jalisco/Terreno 2/01.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
@@ -51,7 +51,7 @@
         <h4 class="my-0 font-weight-normal">Terreno Merida</h4>
       </div>
       <div class="card-body">
-      <img src="img/Terrenos/Baja california/Terreno 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
+      <img src="img/Terrenos/Jalisco/Terreno 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
       <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>

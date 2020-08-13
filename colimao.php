@@ -20,10 +20,10 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Residencia Sky Tower </h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
-      <img src="img/Oficinas/Colima/Oficina 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/o1col.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
@@ -34,10 +34,10 @@
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Residencia Santa Ana</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
-      <img src="img/Oficinas/Colima/Oficina 2/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
+      <img src="img/o2col.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
         <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
@@ -48,11 +48,11 @@
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Recidencia Hidalgo</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
-      <img src="img/Oficinas/Colima/Oficina 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
-      <ul class="list-unstyled mt-3 mb-4">
+      <img src="img/o3col.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
+        <ul class="list-unstyled mt-3 mb-4">
           <li>"El compromiso </li>
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
@@ -60,3 +60,7 @@
         <a href="colimao3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
     </div>
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

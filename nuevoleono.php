@@ -20,7 +20,7 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Oficina Corporativa </h4>
+        <h4 class="my-0 font-weight-normal"> </h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Nuevo león/Oficina 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -29,12 +29,12 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="nuevoleon1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="nuevoleono1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Oficina Central</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Nuevo león/Oficina 2/1.jpg"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -43,12 +43,12 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="nuevoleon2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="nuevoleono2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Oficina Park</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Nuevo león/Oficina 3/1.jpg"width="300" alt="img_conference" class="rounded float-left mr-4"> 
@@ -57,6 +57,6 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="nuevoleon3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="nuevoleono3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
     </div>

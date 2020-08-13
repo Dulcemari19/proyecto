@@ -20,7 +20,7 @@
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Oficina jacks  </h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Oaxaca/Oficina 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -29,12 +29,12 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="Oaxacaoficina1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="Oaxacao1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Oficina Area Verde</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Oaxaca/Oficina 2/01.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -43,12 +43,12 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="Oaxacaoficina2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="Oaxacao2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Oficina Hidalgo</h4>
+        <h4 class="my-0 font-weight-normal"></h4>
       </div>
       <div class="card-body">
       <img src="img/Oficinas/Oaxaca/Oficina 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
@@ -57,6 +57,6 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="Oaxacaoficina3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="Oaxacao3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
     </div>

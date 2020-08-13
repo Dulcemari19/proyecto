@@ -14,13 +14,13 @@
     <a href="terrenos.php" class="btn btn-light btn-sm float-right"><i class="fa fa-reply"></i> regresar</a>
     <img src="img/sdihouse.png"width="250" alt="img_conference" class="rounded float-left mr-4"><div class="jumbotron text-center">
      <h1>SDI House</h1>
-      <p>¿Por cuánto tiempo me quedo con una propiedad? Mi preferencia: para siempre</p> 
+      <p>¿Por cuánto tiempo me quedo con una  propiedad? Mi preferencia: para siempre</p> 
     </div>
     <div class="container">
   <div class="card-deck mb-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Terreno Tabay </h4>
+        <h4 class="my-0 font-weight-normal">Terreno San Antonio</h4>
       </div>
       <div class="card-body">
       <img src="img/Terrenos/Queretaro/Terreno 1/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -29,12 +29,12 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="queretarot1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="queretaro1.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
       </div>
       <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Terreno Colinas</h4>
+        <h4 class="my-0 font-weight-normal">El Vuelo</h4>
       </div>
       <div class="card-body">
       <img src="img/Terrenos/Queretaro/Terreno 2/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4">
@@ -43,20 +43,6 @@
           <li>es Contigo"</li>
           <li>La mejor calidad aqui en SDI</li>
         </ul>
-        <a href="queretarot2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
-      </div>
-      </div>
-      <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Terreno Domingo</h4>
-      </div>
-      <div class="card-body">
-      <img src="img/Terrenos/Queretaro/Terreno 3/1.webp"width="300" alt="img_conference" class="rounded float-left mr-4"> 
-      <ul class="list-unstyled mt-3 mb-4">
-          <li>"El compromiso </li>
-          <li>es Contigo"</li>
-          <li>La mejor calidad aqui en SDI</li>
-        </ul>
-        <a href="queretarot3.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
+        <a href="queretaro2.php"><button type="button" class="btn btn-lg btn-block btn-outline-primary">Observar</button></a>
       </div>
     </div>
