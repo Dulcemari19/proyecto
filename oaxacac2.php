@@ -1,5 +1,7 @@
-<!DOCTYPE html>
-<html lang="es-MX">
+<?php
+require_once './checa_sesion.php'
+?>
+<!DOCTYPE html><html lang="es-MX">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
