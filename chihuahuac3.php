@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es-MX">
 <head>
     <meta charset="UTF-8">
@@ -29,7 +29,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="img/Chihuahua/casa 3/01.webp" alt="First slide">
+          <img class="d-block w-100" src="img/Chihuahua/Casa 3/01.webp" alt="First slide">
     </div>
     </div>
       <h4><strong>Servicios</strong></h4>
